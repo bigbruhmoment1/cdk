@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.example.examplemod1.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.example1.refmap.json",
+  "mixins": [],
+  "client": [
+    "MixinMinecraft"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
